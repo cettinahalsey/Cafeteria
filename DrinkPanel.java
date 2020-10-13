@@ -61,7 +61,7 @@ import javax.swing.*;
      bg.add(cappuccino);
 
      // Add a border around the panel.
-     setBorder(BorderFactory.createTitledBorder("Coffee"));
+     setBorder(BorderFactory.createTitledBorder("Drinks"));
 
      // Add the radio buttons to the panel.
      add(plainWater);
